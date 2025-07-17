@@ -1,5 +1,6 @@
 # To-do-list
-Project Overview
+**Project Overview**
+
 This is a simple To-Do List web application built using HTML, CSS, and JavaScript. It allows users to:
 1. Add tasks
 2. Delete tasks
