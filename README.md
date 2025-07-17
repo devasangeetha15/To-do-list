@@ -5,6 +5,7 @@ This is a simple To-Do List web application built using HTML, CSS, and JavaScrip
 1. Add tasks
 2. Delete tasks
 3. Mark tasks as completed
+
 It runs directly in the browser with no backend required.
 
 
